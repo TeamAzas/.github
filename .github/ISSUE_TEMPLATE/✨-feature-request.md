@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: "✨ Feature Request"
+about: 새로운 기능을 제안하거나 구현할 작업을 기록합니다.
 title: "✨Feat: "
 labels: "✨feature"
 assignees: ''
